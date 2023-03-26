@@ -15,7 +15,6 @@ public class PrintFactors {
             factors.add(num/factors.get(i));
         }
 
-
         System.out.println(factors);
     }
 }
